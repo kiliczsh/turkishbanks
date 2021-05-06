@@ -1,4 +1,7 @@
 # TurkishBanks
+
+[![Go Reference](https://pkg.go.dev/badge/github.com/kiliczsh/turkishbanks.svg)](https://pkg.go.dev/github.com/kiliczsh/turkishbanks)
+
 Go module for Turkish Banks. 
 Bank information is taken from [Türkiye Cumhuriyet Merkez Bankası (TCMB)](http://eftemkt.tcmb.gov.tr/bankasubelistesi/bankaSubeTumListe.xml).
 
