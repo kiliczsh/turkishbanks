@@ -10,7 +10,7 @@ Bank information is taken from [Türkiye Cumhuriyet Merkez Bankası (TCMB)](http
 ### Install
 
 ```shell
-go get github.com/kiliczsh/turkishbanks@v1.0.0
+go get github.com/kiliczsh/turkishbanks
 ```
 
 
